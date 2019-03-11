@@ -8,4 +8,4 @@ And here is the demo result:
 Screenshots
 -------------
 
-<img src="screenshots/demo-counting-and-limit-100-chars.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/demo-counting-and-limit-100-chars.png" height="720" alt="Screenshot"/> 
