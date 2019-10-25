@@ -8,3 +8,9 @@ And here is the demo result:
 -------------
 
 <img src="screenshots/demo-counting-and-limit-100-chars.png" height="720" alt="Screenshot"/> 
+
+
+
+Cut string with fullsize (shift_JIS) Japanese font using the Normalize class: 
+-------------
+Ref to the ShiftJISStringUnitTest.java class to enjoy. 
