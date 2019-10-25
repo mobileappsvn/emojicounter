@@ -1,4 +1,4 @@
-# Emojicounter
+# 1. Emojicounter
 Counting Emoji number, Extract all Emoji, SubString with data content contain Emoji, Android counting Emoji, Check String is Emoji character, Android Emoji counter, Emoji Utils
 
 To unit test, you can copy the String contain the following Emoji characters into Edittext & Enjoy:
@@ -11,6 +11,6 @@ And here is the demo result:
 
 
 
-Cut string with fullsize (shift_JIS) Japanese font using the Normalize class: 
+#2. Cut string with fullsize (shift_JIS) Japanese font using the Normalize class: 
 -------------
 Ref to the ShiftJISStringUnitTest.java class to enjoy. 
